@@ -81,8 +81,8 @@ Math.floor((Math.random() * 12) + 1)
       <CardActions disableSpacing>
 
         <IconButton aria-label="share">
-          <a href="whatsapp://send?text=This is WhatsApp sharing example using link" data-action="share/whatsapp/share"
-            target="_blank" >  <WhatsAppIcon /> </a>
+          <a href="whatsapp://send?text = Please visit https://atlon-608d0.web.app/ to fetch your query " data-action="share/whatsapp/share"
+            target="_blank" > <WhatsAppIcon /> </a>
 
         </IconButton>
         <ExpandMore
